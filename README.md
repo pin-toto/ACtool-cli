@@ -1,2 +1,8 @@
 # ACtool-cli
-A collaborative command-line toolbox. No GUI, just tools. Open source. Built by a team of friends.in python code.
+
+> **A command-line toolbox built by a group of friends. No GUI, just tools. Open source.**
+
+## 🚀 How to run
+
+```bash
+python src/main.py
